@@ -4,7 +4,7 @@ pipeline {
 
 	tools {
         maven "maven3"
-         jdk "OrcaleJDK8"
+         jdk "OrcaleJDK11"
     }
 
     environment {
